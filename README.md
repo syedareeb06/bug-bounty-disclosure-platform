@@ -35,6 +35,7 @@ Security researchers who responsibly report vulnerabilities take a risk:
 - **Blockchain Explorer**: hash-linked blocks, decoded transactions and an audit log in plain sentences
 - Built-in sample programs and vulnerability reports (fictional `.example` targets), ETH balances shown so payouts are visible
 - Two blockchains: an **in-browser Ethereum chain** (zero setup) or a **local Hardhat node**
+- **Light / dark theme switch** in the top bar (follows your system theme until you choose, then remembers it)
 
 | Company decrypts and triages a report | Researcher's report timelines |
 |---|---|
